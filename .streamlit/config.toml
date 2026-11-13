@@ -1,0 +1,8 @@
+# Streamlit tema ayarları — uygulamanın genel renk ve yazı tipi paleti.
+# (Sunumda: "Renkleri ve genel görünümü buradan, tek dosyadan ayarlıyoruz.")
+[theme]
+primaryColor = "#c23b4b"            # Vurgu rengi (kalp / risk teması)
+backgroundColor = "#f7f8fa"         # Sayfa arka planı (yumuşak gri-beyaz)
+secondaryBackgroundColor = "#ffffff" # Kart / kenar panel arka planı
+textColor = "#22262e"               # Metin rengi
+font = "sans serif"
